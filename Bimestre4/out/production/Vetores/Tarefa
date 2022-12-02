@@ -1,0 +1,4 @@
+Construa um algoritmo que preencha dois vetores reais de 15 posições,
+e depois crie um terceiro vetor cujo conteúdo de cada posição é
+1 se os elementos dos dois vetores forem iguais nessa posição,
+ou 0 caso contrário. Imprima os três vetores.

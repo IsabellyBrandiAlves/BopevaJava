@@ -1,0 +1,9 @@
+
+
+Elaborar um programa, utilizando o princípio de ArrayList, onde o usuário fará a inserção do nome de 5 bandas de rock.
+
+- Pesquisar qual banda está na posição do armazenamento 3;
+- Inserir a banda "Quiet Riot" nessa posição;
+- Apagar a banda que estava na posição do armazenamento 3;
+- Inserir mais 3 bandas;
+- Verificar qual é o tamanho de registros armazenados.
